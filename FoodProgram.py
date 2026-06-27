@@ -66,7 +66,6 @@ def main():
         again = input("\nSearch for another customer transaction? (y/n): ")
 
         
-
 # Call the main function
 if __name__ == '__main__':
     main()
